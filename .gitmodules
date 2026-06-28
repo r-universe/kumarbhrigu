@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "TwoCutoff"]
 	path = TwoCutoff
-	url = https://github.com/cran/TwoCutoff
+	url = https://github.com/kumarbhrigu/twocutoff
